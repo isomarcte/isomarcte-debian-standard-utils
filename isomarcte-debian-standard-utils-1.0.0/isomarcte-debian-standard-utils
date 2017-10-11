@@ -10,7 +10,7 @@ Package: isomarcte-debian-standard-utils
 Version: 1.0.0
 Maintainer: David Strawn <isomarcte@gmail.com>
 # Pre-Depends: <comma-separated list of packages>
-Depends: emacs25-nox, tree, tmux, ghc, bash-completion, sudo, netcat, bash, git, silversearcher-ag, curl, wget
+Depends: emacs25-nox, tree, tmux, ghc, bash-completion, sudo, netcat, bash, git, silversearcher-ag, curl, wget, apt-file, aptitude, dialog
 # Recommends: <comma-separated list of packages>
 # Suggests: <comma-separated list of packages>
 # Provides: <comma-separated list of packages>
